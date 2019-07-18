@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>VIP看看</title>
   
-  <subtitle>不忘初心、为精彩而生</subtitle>
+  <subtitle>不忘初心</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://vipsee.github.io/"/>
+  <link href="https://acg.vipsee.top/"/>
   <updated>2019-07-18T03:23:50.813Z</updated>
-  <id>https://vipsee.github.io/</id>
+  <id>https://acg.vipsee.top/</id>
   
   <author>
     <name>acg</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>魔道祖师：世人皆识鬼将军，不识白衣温琼林</title>
-    <link href="https://vipsee.github.io/2019/07/18/wn718/"/>
-    <id>https://vipsee.github.io/2019/07/18/wn718/</id>
+    <link href="https://acg.vipsee.top/2019/07/18/wn718/"/>
+    <id>https://acg.vipsee.top/2019/07/18/wn718/</id>
     <published>2019-07-18T02:04:25.000Z</published>
     <updated>2019-07-18T03:23:50.813Z</updated>
     
@@ -37,12 +37,12 @@
     
     </summary>
     
-      <category term="魔道祖师" scheme="https://vipsee.github.io/categories/%E9%AD%94%E9%81%93%E7%A5%96%E5%B8%88/"/>
+      <category term="魔道祖师" scheme="https://acg.vipsee.top/categories/%E9%AD%94%E9%81%93%E7%A5%96%E5%B8%88/"/>
     
     
-      <category term="魔道祖师" scheme="https://vipsee.github.io/tags/%E9%AD%94%E9%81%93%E7%A5%96%E5%B8%88/"/>
+      <category term="魔道祖师" scheme="https://acg.vipsee.top/tags/%E9%AD%94%E9%81%93%E7%A5%96%E5%B8%88/"/>
     
-      <category term="温宁" scheme="https://vipsee.github.io/tags/%E6%B8%A9%E5%AE%81/"/>
+      <category term="温宁" scheme="https://acg.vipsee.top/tags/%E6%B8%A9%E5%AE%81/"/>
     
   </entry>
   
